@@ -13,7 +13,7 @@ For this test you may use the browser's native fetch function to call the API.
 What you need to do:
 
 - Create a new public Git repo and push to Github so we can review - you can optionally use GitHub pages or Netlify to host your app.
-- Create a new Vue project, https://vuejs.org/guide/quick-start.
+- Create a new Vue project, https://vuejs.org/gunpm create vue@latestide/quick-start.
 - Install Pinia for the store and central state.
 - Create two components, a SearchBar and a ResultsSet.
 - When the user carries out a search triggering an onInput event, you need to call the store, which calls the API and updates the state - make use of actions and mutations.
