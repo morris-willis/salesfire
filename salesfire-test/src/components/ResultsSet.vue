@@ -17,7 +17,7 @@
 <style>
     .products{
         display: flex;
-        justify-content: space-around;
+        justify-content: space-between;
         flex-wrap: wrap;
     }
     .empty-products-text{

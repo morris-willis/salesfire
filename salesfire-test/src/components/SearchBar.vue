@@ -17,7 +17,7 @@
 </template>
 <style>
 .searchbar{
-    width: 95%;
+    width: 100%;
     font-size: medium;
     height: 30px;
 }
